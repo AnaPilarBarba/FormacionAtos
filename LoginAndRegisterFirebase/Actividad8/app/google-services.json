@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314008356889",
+    "project_id": "loginandroidstudio-8da6b",
+    "storage_bucket": "loginandroidstudio-8da6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314008356889:android:980af01ee5555a24484288",
+        "android_client_info": {
+          "package_name": "com.example.actividad8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314008356889-e7eqnh7u3lgb5ul4c7aa17rhbqkgibhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HMyJcpM2jAZ87f_NeLstsee1a_VtMbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314008356889-6ssmp5et8t8ioul3nnv34r3782t004gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
